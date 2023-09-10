@@ -4,9 +4,9 @@ This is a project for the subject Mobile Application Development. This project r
 //In additional of the Next Button, add a Previous Button: Add a button that the user can press to go back one question.
 
 //Preventing Repeat Answers: Once a user provides an answer for a particular question, disable the buttons for that question to prevent multiple answers being entered.
-
+
 //Graded Quiz: After the user provides answers for all of the quiz questions, display a Toast with a percentage score for the quiz.
-
+
 //Reset Quiz: Add in a button to reset the Quiz (to enable all the buttons and reset the scores).
  
 //Closing Loopholes for Cheaters:
