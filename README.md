@@ -10,8 +10,8 @@ This is a project for the subject Mobile Application Development. This project r
 //Reset Quiz: Add in a button to reset the Quiz (to enable all the buttons and reset the scores).
  
 //Closing Loopholes for Cheaters:
-• Users can rotate CheatActivity after they cheat to clear out the cheating result.
-• Once they get back from CheatActivity, users can rotate QuizActivity to clear out
+a. Users can rotate CheatActivity after they cheat to clear out the cheating result.
+b. Once they get back from CheatActivity, users can rotate QuizActivity to clear out
 mIsCheater.
 
 //Limited Cheats: Allow the user to cheat a maximum of three times. Keep track of the user’s cheat occurrences and display the number of remaining cheat tokens below the cheat button. If no tokens remain, disable the cheat button.
